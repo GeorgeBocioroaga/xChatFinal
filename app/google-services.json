@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86621935920",
+    "firebase_url": "https://xchat-8ddb5.firebaseio.com",
+    "project_id": "xchat-8ddb5",
+    "storage_bucket": "xchat-8ddb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86621935920:android:7479c48cbb2477b3",
+        "android_client_info": {
+          "package_name": "ro.ub.fmi.xChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86621935920-vnbiu52f92qtk2fue5g2gpsfvgl1gujt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.ub.fmi.xChat",
+            "certificate_hash": "a86f5ff7cc33bf8ec49b6469daa8239a9474e9c4"
+          }
+        },
+        {
+          "client_id": "86621935920-pugund21lqkmq52ffp1sfkbh6ocliila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZ2v8AWnA1wViPh8nMcwrqqOydExYeJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86621935920-pugund21lqkmq52ffp1sfkbh6ocliila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

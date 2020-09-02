@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">X ChatApp</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_forgetPass">Forgot password?</string>
+    <string name="txt_username">E-mail</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_nickname">Display name</string>
+    <string name="txt_enterEmail">Please enter a valid email!</string>
+    <string name="txt_enterPassword">Please enter password between 6 and 24 characters!</string>
+    <string name="txt_validEmailPassword">Please eneter a valid email and password!</string>
+    <string name="txt_authenticating">Authenticating...</string>
+    <string name="txt_registerError">There is already an user with that email adress!</string>
+    <string name="txt_enterDisplayname">Please enter a name between 6 and 24 characters!</string>
+    <string name="txt_registering">Registering...</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="default_status">Hello! I\'m using ChatApp!</string>
+    <string name="txt_changeAvatar">Change image</string>
+
+
+    <string name="txt_save">Save</string>
+    <string name="txt_loading">Loading...</string>
+    <string name="txt_chooseAvatar">Please choose avatar image!</string>
+    <string name="txt_errorUploadImage">Error in uploading!</string>
+    <string name="txt_uploadImgWait">Please wait while we upload the image.</string>
+    <string name="txt_uploadImg">Uploading image</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_grupa">Grupa</string>
+    <string name="txt_error_grupa">Please enter grupa!</string>
+    <string name="txt_an">An</string>
+    <string name="txt_selectOtherUser">Please select another user, not yourself!</string>
+    <string name="txt_facultate">Facultate</string>
+    <string name="timeText">00:00</string>
+    <string name="displayName">Display Name</string>
+    <string name="msgText">Message Text</string>
+    <string name="textTime2">00:00</string>
+    <string name="txtmsgText2">Message Text</string>
+
+    <string-array name="an_array">
+        <item>Anul I</item>
+        <item>Anul II</item>
+        <item>Anul III</item>
+    </string-array>
+
+
+</resources>
